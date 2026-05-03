@@ -2,5 +2,11 @@
     "title":"I计之家",
     "subTitle":"孩子们，淮工计算机有救了",
     "avatarUrl":"https://avatars.githubusercontent.com/u/281428141?v=4&size=64",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark"
+    
 }
